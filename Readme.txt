@@ -24,7 +24,7 @@ Jenkins Dockerfile: tmatthysen/Ayo_project/Jenkins/Container_Setup/
 WebApp Dockerfile: tmatthysen/Ayo_project/WebApp/Container_Setup/
 docker-compose file: tmatthysen/Ayo_project/docker-compose/
 
-Jenkins Pipeline: tmatthysen/Ayo_project/Jenkins/Pipeline
+Jenkins Pipeline: tmatthysen/Ayo_project/Jenkins/Pipeline/
 
-WebApp Source Code: tmatthysen/Ayo_project/project_java
+WebApp Source Code: tmatthysen/Ayo_project/WebApp/Source Code/
 WebApp Repository: https://github.com/tmatthysen/project_java
