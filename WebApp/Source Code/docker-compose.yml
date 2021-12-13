@@ -1,0 +1,11 @@
+version: '3.8'
+services:    
+  maven_app:
+    build: ./
+    image: mavenapp_maven_app:latest
+    privileged: true
+    user: root
+    ports: 
+      - 80:8081
+      - 443:8443
+    container_name: mavenApp
